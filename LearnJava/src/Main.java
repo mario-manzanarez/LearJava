@@ -120,7 +120,7 @@ public class Main {
      * Imprime un valor con un mensaje otorgado y le concatena un mensaje generado de acuerdo a la nota obtenida
      *
      * @param calificacion calificación promedio
-     * @param mensaje 
+     * @param mensaje
      * @author Mario Manzanarez
      * @since 07/02/2025
      */
